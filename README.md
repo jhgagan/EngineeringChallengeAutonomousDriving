@@ -10,7 +10,7 @@ A multi-sensor fusion pipeline for tracking an opponent race car relative to an 
 
 | Name | Role |
 |------|------|
-| Gagan Jhunjhunwala | Team Member |
+| Gagan J H | Team Member |
 | Ashkriti Dewan | Team Member |
 | Hardik Nayak | Team Member |
 
