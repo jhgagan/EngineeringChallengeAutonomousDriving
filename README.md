@@ -20,7 +20,7 @@ A multi-sensor fusion pipeline for tracking an opponent race car relative to an 
 
 The goal is to fuse LiDAR, radar, and camera data to produce stable, real-time state estimates of an opponent vehicle during a race. The system outputs **range**, **relative heading**, **absolute velocity**, and **uncertainty bounds** for the tracked target.
 
-**Dataset:** 120 seconds of Yas Marina Circuit racing data — 2,388 synchronized frames stored in a ROS2 SQLite3 (`.db3`) bag with CDR-serialized messages, provided by **[PoliMove](https://a2rl.io/team-detail/5/polimove-autonomous-racing-team)**.
+**Dataset:** 240 seconds of Yas Marina Circuit racing data — ~4800 synchronized frames stored in a ROS2 SQLite3 (`.db3`) bag with CDR-serialized messages, provided by **[PoliMove](https://a2rl.io/team-detail/5/polimove-autonomous-racing-team)**.
 
 **About PoliMove:** PoliMove is the autonomous racing research team of Politecnico di Milano. The team competes in the Indy Autonomous Challenge and the Abu Dhabi Autonomous Racing League (A2RL) at Yas Marina Circuit, and has won the Indy Autonomous Challenge four consecutive times. The dataset used in this project was collected from their autonomous race car at Yas Marina, Abu Dhabi, providing real-world, high-speed racing sensor data.
 
