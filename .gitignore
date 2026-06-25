@@ -1,1 +1,11 @@
 Data/
+
+# Large binary files
+*.zip
+*.mp4
+*.npy
+*.pt
+
+# Python virtual environment and cache
+engCh/
+__pycache__/
