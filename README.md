@@ -245,7 +245,7 @@ A 4-panel synchronized monitoring UI ([Task2/dashboard.py](Task2/dashboard.py)):
 ## Acknowledgements
 
 - **[PoliMove](https://a2rl.io/team-detail/5/polimove-autonomous-racing-team)** — for providing the real-world autonomous racing dataset collected at Yas Marina Circuit, Abu Dhabi. PoliMove is the autonomous racing team of Politecnico di Milano and four-time winner of the Indy Autonomous Challenge.
-- **EESTEC** — for organizing the Engineering Challenge.
+- **EESTEC LC Milano** — for organizing the Engineering Challenge.
 - **Politecnico di Milano** — for hosting the competition.
 
 ---
