@@ -150,8 +150,6 @@ A 4-panel synchronized monitoring UI ([Task2/dashboard.py](Task2/dashboard.py)):
 - **Radar Pane:** Multi-directional live radar scatter return map
 - **HUD Overlay:** Range, speed, heading, EKF covariance, and ego vehicle telemetry strips
 
-![Dashboard](demo/dashboard.png)
-
 ---
 
 ## Key Scripts
